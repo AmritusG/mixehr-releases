@@ -1,0 +1,732 @@
+MixEhr 1.0.0 — third-party notices
+Each MixEhr bundle also carries its own copy in Contents/Resources/NOTICES.txt. All sixteen follow.
+
+================================================================================
+MixEhr 3D — third-party notices (generated from GlancEhr 4f01e56f511632b6f0f6863bfe61e91d1f066b04's catalogue)
+
+Shader translation: naga 30.0.2 (MIT OR Apache-2.0, gfx-rs) at build time; not shipped.
+FreeFrame GL SDK (resolume/ffgl 5b6e078): BSD-style FreeFrame licence (third_party/ffgl/LICENSE.md).
+DXVKit 1.0.0 (Amrit Rosell, MIT; third_party/dxvkit/LICENSE): the DXV stinger reader.
+stb_image 2.30 (Sean Barrett, public domain / MIT, third_party/stb/stb_image.h): the PNG / JPG reader.
+
+- BSD-2-Clause | gl-transitions StereoViewer.glsl, Ted Schundler (Copyright (c) 2016 Theodore K Schundler): Stereo Viewer
+- BSD-3-Clause | gl-transitions InvertedPageCurl.glsl, Hewlett-Packard: Inverted Page Curl
+- MIT | GlancEhr, after After Effects Card Wipe (public docs: Transition Width, Rows, Columns, Flip Axis, Timing Randomness), a 2D approximation: Card Wipe
+- MIT | gl-transitions Accordion.glsl, gre: Accordion
+- MIT | gl-transitions BookFlip.glsl, hong: Book Flip
+- MIT | gl-transitions BrickCollapse.glsl, gre: Brick Collapse
+- MIT | gl-transitions CoinSettle.glsl, gre: Coin Settle
+- MIT | gl-transitions CornerPin.glsl, gre: Corner Pin
+- MIT | gl-transitions Crumple.glsl, gre: Crumple
+- MIT | gl-transitions Cube.glsl, gre: Cube
+- MIT | gl-transitions CurtainRise.glsl, gre: Curtain Rise
+- MIT | gl-transitions Curtains.glsl, gre: Curtains
+- MIT | gl-transitions CylinderRoll.glsl, gre: Cylinder Roll
+- MIT | gl-transitions Deinterleave.glsl, gre: Deinterleave
+- MIT | gl-transitions DominoFall.glsl, gre: Domino Fall
+- MIT | gl-transitions Doorway.glsl, gre: Doorway
+- MIT | gl-transitions Drape.glsl, gre: Drape
+- MIT | gl-transitions FallOver.glsl, gre: Fall Over
+- MIT | gl-transitions Flutter.glsl, gre: Flutter
+- MIT | gl-transitions Gallery.glsl, gre: Gallery
+- MIT | gl-transitions GlitterDissolve.glsl, gre: Glitter Dissolve
+- MIT | gl-transitions GridFlip.glsl, TimDonselaar: Grid Flip
+- MIT | gl-transitions HerringboneFold.glsl, gre: Herringbone Fold
+- MIT | gl-transitions Inchworm.glsl, gre: Inchworm
+- MIT | gl-transitions InsideCube.glsl, gre: Inside Cube
+- MIT | gl-transitions PaperFold.glsl, gre: Paper Fold
+- MIT | gl-transitions PinchLift.glsl, gre: Pinch Lift
+- MIT | gl-transitions Prisms.glsl, gre: Prisms
+- MIT | gl-transitions PuzzleCube.glsl, gre: Puzzle Cube
+- MIT | gl-transitions Reassemble.glsl, gre: Reassemble
+- MIT | gl-transitions RibbonTwist.glsl, gre: Ribbon Twist
+- MIT | gl-transitions Shatter.glsl, lbl: Shatter
+- MIT | gl-transitions SimpleFlip.glsl, nwoeanhinnogaehr: Simple Flip
+- MIT | gl-transitions SlotReels.glsl, gre: Slot Reels
+- MIT | gl-transitions Sphere.glsl, gre: Sphere
+- MIT | gl-transitions SplitFlap.glsl, gre: Split Flap
+- MIT | gl-transitions Swap.glsl, gre: Swap
+- MIT | gl-transitions TileBlast.glsl, gre: Tile Blast
+- MIT | gl-transitions TriangleFlip.glsl, gre: Triangle Flip
+- MIT | gl-transitions Tumble.glsl, gre: Tumble
+- MIT | gl-transitions Unbox.glsl, gre: Unbox
+
+gl-transitions (https://github.com/gl-transitions/gl-transitions), MIT License, (c) the authors named above:
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated
+documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to
+use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the
+Software is furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
+MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE
+FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN
+CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+================================================================================
+MixEhr Blur — third-party notices (generated from GlancEhr 4f01e56f511632b6f0f6863bfe61e91d1f066b04's catalogue)
+
+Shader translation: naga 30.0.2 (MIT OR Apache-2.0, gfx-rs) at build time; not shipped.
+FreeFrame GL SDK (resolume/ffgl 5b6e078): BSD-style FreeFrame licence (third_party/ffgl/LICENSE.md).
+DXVKit 1.0.0 (Amrit Rosell, MIT; third_party/dxvkit/LICENSE): the DXV stinger reader.
+stb_image 2.30 (Sean Barrett, public domain / MIT, third_party/stb/stb_image.h): the PNG / JPG reader.
+
+- MIT | gl-transitions BokehDissolve.glsl, gre: Bokeh Dissolve
+- MIT | gl-transitions CrossZoom.glsl, rectalogic: Cross Zoom
+- MIT | gl-transitions DefocusBlur.glsl, Sergey Kosarevsky: Defocus Blur
+- MIT | gl-transitions Faint.glsl, gre: Faint
+- MIT | gl-transitions Pixelize.glsl, gre: Pixelize
+- MIT | gl-transitions WhipPan.glsl, gre: Whip Pan
+- MIT | gl-transitions WhipSpin.glsl, gre: Whip Spin
+- MIT | gl-transitions WhipTilt.glsl, gre: Whip Tilt
+
+gl-transitions (https://github.com/gl-transitions/gl-transitions), MIT License, (c) the authors named above:
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated
+documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to
+use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the
+Software is furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
+MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE
+FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN
+CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+================================================================================
+MixEhr Dissolve — third-party notices (generated from GlancEhr 4f01e56f511632b6f0f6863bfe61e91d1f066b04's catalogue)
+
+Shader translation: naga 30.0.2 (MIT OR Apache-2.0, gfx-rs) at build time; not shipped.
+FreeFrame GL SDK (resolume/ffgl 5b6e078): BSD-style FreeFrame licence (third_party/ffgl/LICENSE.md).
+DXVKit 1.0.0 (Amrit Rosell, MIT; third_party/dxvkit/LICENSE): the DXV stinger reader.
+stb_image 2.30 (Sean Barrett, public domain / MIT, third_party/stb/stb_image.h): the PNG / JPG reader.
+
+- MIT | GlancEhr (the plain mix; Resolume's and every editor's default): Crossfade
+- MIT | GlancEhr, after Resolume blend mode Add (resolume.com/support/en/blend-modes; public formula): Add Blend
+- MIT | GlancEhr, after Resolume blend mode Burn (resolume.com/support/en/blend-modes; public formula): Burn Blend
+- MIT | GlancEhr, after Resolume blend mode Darken (resolume.com/support/en/blend-modes; public formula): Darken Blend
+- MIT | GlancEhr, after Resolume blend mode Difference (resolume.com/support/en/blend-modes; public formula): Difference Blend
+- MIT | GlancEhr, after Resolume blend mode Difference I (resolume.com/support/en/blend-modes; public formula): Difference Inverted Blend
+- MIT | GlancEhr, after Resolume blend mode Dodge (resolume.com/support/en/blend-modes; public formula): Dodge Blend
+- MIT | GlancEhr, after Resolume blend mode Exclusion (resolume.com/support/en/blend-modes; public formula): Exclusion Blend
+- MIT | GlancEhr, after Resolume blend mode Hard Light (resolume.com/support/en/blend-modes; public formula): Hard Light Blend
+- MIT | GlancEhr, after Resolume blend mode Lighten (resolume.com/support/en/blend-modes; public formula): Lighten Blend
+- MIT | GlancEhr, after Resolume blend mode Overlay (resolume.com/support/en/blend-modes; public formula): Overlay Blend
+- MIT | GlancEhr, after Resolume blend mode Screen (resolume.com/support/en/blend-modes; public formula): Screen Blend
+- MIT | GlancEhr, after Resolume blend mode Soft Light (resolume.com/support/en/blend-modes; public formula): Soft Light Blend
+- MIT | GlancEhr, after Resolume blend mode Subtract (resolume.com/support/en/blend-modes; public formula): Subtract Blend
+- MIT | GlancEhr, after the Premiere Pro / DaVinci Resolve Non-Additive Dissolve (public descriptions only): Non-Additive Dissolve
+- MIT | GlancEhr, after the editors' "dip to black / white" (public descriptions only): Dip to Colour
+- MIT | gl-transitions CellDissolve.glsl, gre: Cell Dissolve
+- MIT | gl-transitions ColorDistance.glsl, P-Seebauer: Color Distance
+- MIT | gl-transitions ColorPhase.glsl, gre: Colour Phase
+- MIT | gl-transitions Crosshatch.glsl, pthrasher: Crosshatch
+- MIT | gl-transitions DiffuseDissolve.glsl, gre: Diffuse Dissolve
+- MIT | gl-transitions Disintegrate.glsl, gre: Disintegrate
+- MIT | gl-transitions FadeGrayscale.glsl, gre: Fade Grayscale
+- MIT | gl-transitions FilmDissolve.glsl, gre: Film Dissolve
+- MIT | gl-transitions GlowDissolve.glsl, hjm1fb: Glow Dissolve
+- MIT | gl-transitions HsvFade.glsl, nwoeanhinnogaehr: HSV Fade
+- MIT | gl-transitions InkBleed.glsl, gre: Ink Bleed
+- MIT | gl-transitions MultiplyBlend.glsl, Fernando Kuteken: Multiply Blend
+- MIT | gl-transitions NoiseDissolve.glsl, towrabbit: Noise Dissolve
+- MIT | gl-transitions PaintDissolve.glsl, gre: Paint Dissolve
+- MIT | gl-transitions PhotoDevelop.glsl, gre: Photo Develop
+- MIT | gl-transitions PlasmaDissolve.glsl, gre: Plasma Dissolve
+- MIT | gl-transitions RandomSquares.glsl, gre: Random Squares
+- MIT | gl-transitions SketchDissolve.glsl, gre: Sketch Dissolve
+- MIT | gl-transitions SmokeDissolve.glsl, gre: Smoke Dissolve
+- MIT | gl-transitions Vaporize.glsl, gre: Vaporize
+- MIT | gl-transitions WatercolorDissolve.glsl, gre: Watercolor Dissolve
+
+gl-transitions (https://github.com/gl-transitions/gl-transitions), MIT License, (c) the authors named above:
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated
+documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to
+use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the
+Software is furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
+MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE
+FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN
+CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+================================================================================
+MixEhr Geometric — third-party notices (generated from GlancEhr 4f01e56f511632b6f0f6863bfe61e91d1f066b04's catalogue)
+
+Shader translation: naga 30.0.2 (MIT OR Apache-2.0, gfx-rs) at build time; not shipped.
+FreeFrame GL SDK (resolume/ffgl 5b6e078): BSD-style FreeFrame licence (third_party/ffgl/LICENSE.md).
+DXVKit 1.0.0 (Amrit Rosell, MIT; third_party/dxvkit/LICENSE): the DXV stinger reader.
+stb_image 2.30 (Sean Barrett, public domain / MIT, third_party/stb/stb_image.h): the PNG / JPG reader.
+
+- MIT | gl-transitions ApertureWipe.glsl, gre: Aperture Wipe
+- MIT | gl-transitions CircleBurst.glsl, gre: Circle Burst
+- MIT | gl-transitions CircleIris.glsl, Fernando Kuteken: Circle Iris
+- MIT | gl-transitions CircleOpen.glsl, gre: Circle Open
+- MIT | gl-transitions DiamondWipe.glsl, gre: Diamond Wipe
+- MIT | gl-transitions DiscCascade.glsl, gre: Disc Cascade
+- MIT | gl-transitions EyeBlink.glsl, gre: Eye Blink
+- MIT | gl-transitions FlowerWipe.glsl, Fernando Kuteken: Flower Wipe
+- MIT | gl-transitions GeometricCollage.glsl, gre: Geometric Collage
+- MIT | gl-transitions HeartWipe.glsl, gre: Heart Wipe
+- MIT | gl-transitions HingedSquares.glsl, gre: Hinged Squares
+- MIT | gl-transitions Honeycomb.glsl, gre: Honeycomb
+- MIT | gl-transitions IrisFold.glsl, gre: Iris Fold
+- MIT | gl-transitions LissajousTiles.glsl, Boundless <info@boundless-beta.com>: Lissajous Tiles
+- MIT | gl-transitions MicroBrickCascade.glsl, Gilad Levi: Micro Brick Cascade
+- MIT | gl-transitions OutlineCrumble.glsl, gre: Outline Crumble
+- MIT | gl-transitions OutlineTear.glsl, gre: Outline Tear
+- MIT | gl-transitions PaperTear.glsl, gre: Paper Tear
+- MIT | gl-transitions Pinwheel.glsl, Mr Speaker: Pinwheel
+- MIT | gl-transitions Puzzle.glsl, gre: Puzzle
+- MIT | gl-transitions QuadTurn.glsl, gre: Quad Turn
+- MIT | gl-transitions RectangleCover.glsl, martiniti: Rectangle Cover
+- MIT | gl-transitions RectangleIris.glsl, martiniti: Rectangle Iris
+- MIT | gl-transitions RingSpin.glsl, gre: Ring Spin
+- MIT | gl-transitions Rolls.glsl, Mark Craig: Rolls
+- MIT | gl-transitions Shred.glsl, gre: Shred
+- MIT | gl-transitions SlitStretch.glsl, gre: Slit Stretch
+- MIT | gl-transitions Snap.glsl, gre: Snap
+- MIT | gl-transitions Snapshot.glsl, gre: Snapshot
+- MIT | gl-transitions StarWipe.glsl, Ben Lucas: Star Wipe
+- MIT | gl-transitions Subdivide.glsl, gre: Subdivide
+- MIT | gl-transitions TileConveyor.glsl, gre: Tile Conveyor
+- MIT | gl-transitions TileRings.glsl, gre: Tile Rings
+- MIT | gl-transitions TileShuffle.glsl, gre: Tile Shuffle
+- MIT | gl-transitions Vortex.glsl, gre: Vortex
+- MIT | gl-transitions Whittle.glsl, gre: Whittle
+
+gl-transitions (https://github.com/gl-transitions/gl-transitions), MIT License, (c) the authors named above:
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated
+documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to
+use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the
+Software is furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
+MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE
+FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN
+CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+================================================================================
+MixEhr Glitch — third-party notices (generated from GlancEhr 4f01e56f511632b6f0f6863bfe61e91d1f066b04's catalogue)
+
+Shader translation: naga 30.0.2 (MIT OR Apache-2.0, gfx-rs) at build time; not shipped.
+FreeFrame GL SDK (resolume/ffgl 5b6e078): BSD-style FreeFrame licence (third_party/ffgl/LICENSE.md).
+DXVKit 1.0.0 (Amrit Rosell, MIT; third_party/dxvkit/LICENSE): the DXV stinger reader.
+stb_image 2.30 (Sean Barrett, public domain / MIT, third_party/stb/stb_image.h): the PNG / JPG reader.
+
+- MIT | GlancEhr, after the editors' chromatic-aberration / RGB-split transitions (Premiere, Resolve and VJ-tool public descriptions): Chromatic Split
+- MIT | gl-transitions CameraShake.glsl, gre: Camera Shake
+- MIT | gl-transitions CodeRain.glsl, gre: Code Rain
+- MIT | gl-transitions ColorWrap.glsl, Yoni Maltsman @friendlyspinach: Colour Wrap
+- MIT | gl-transitions GlitchBands.glsl, Yoni Maltsman @friendlyspinach: Glitch Bands
+- MIT | gl-transitions GlitchDisplace.glsl, Matt DesLauriers: Glitch Displace
+- MIT | gl-transitions GlitchFlicker.glsl, bread: Glitch Flicker
+- MIT | gl-transitions Hologram.glsl, gre: Hologram
+- MIT | gl-transitions HorizontalHold.glsl, gre: Horizontal Hold
+- MIT | gl-transitions PixelStretch.glsl, gre: Pixel Stretch
+- MIT | gl-transitions Shockwave.glsl, Gilad Levi, github @Giladx: Shockwave
+- MIT | gl-transitions StaticFade.glsl, Ben Lucas: Static Fade
+- MIT | gl-transitions StaticWipe.glsl, Ben Lucas: Static Wipe
+- MIT | gl-transitions StripDatamoshGlitch.glsl, bread: Strip Datamosh Glitch
+- MIT | gl-transitions TvLostSignal.glsl, mernking (gitlab.com/Godswork): TV Lost Signal
+- MIT | gl-transitions TvRoll.glsl, gre: TV Roll
+- MIT | gl-transitions TvStatic.glsl, Brandon Anzaldi: TV Static
+- MIT | gl-transitions VhsTracking.glsl, gre: VHS Tracking
+
+gl-transitions (https://github.com/gl-transitions/gl-transitions), MIT License, (c) the authors named above:
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated
+documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to
+use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the
+Software is furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
+MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE
+FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN
+CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+================================================================================
+MixEhr Light — third-party notices (generated from GlancEhr 4f01e56f511632b6f0f6863bfe61e91d1f066b04's catalogue)
+
+Shader translation: naga 30.0.2 (MIT OR Apache-2.0, gfx-rs) at build time; not shipped.
+FreeFrame GL SDK (resolume/ffgl 5b6e078): BSD-style FreeFrame licence (third_party/ffgl/LICENSE.md).
+DXVKit 1.0.0 (Amrit Rosell, MIT; third_party/dxvkit/LICENSE): the DXV stinger reader.
+stb_image 2.30 (Sean Barrett, public domain / MIT, third_party/stb/stb_image.h): the PNG / JPG reader.
+
+- MIT | GlancEhr, after CycoreFX CC Light Wipe (vendor manual: Completion, Center, Intensity, Shape Doors / Round / Square, Direction, Color from Source, Color, Reverse Transition): Light Wipe Iris
+- MIT | gl-transitions BloomDissolve.glsl, gre: Bloom Dissolve
+- MIT | gl-transitions DuotoneFade.glsl, gre: Duotone Fade
+- MIT | gl-transitions EdgeGlow.glsl, Woohyun Kim: Edge Glow
+- MIT | gl-transitions FilmBurn.glsl, Anastasia Dunbar: Film Burn
+- MIT | gl-transitions FlashFade.glsl, gre: Flash Fade
+- MIT | gl-transitions GlintDissolve.glsl, gre: Glint Dissolve
+- MIT | gl-transitions LensFlare.glsl, gre: Lens Flare
+- MIT | gl-transitions LensWipe.glsl, gre: Lens Wipe
+- MIT | gl-transitions LightRays.glsl, gre: Light Rays
+- MIT | gl-transitions LightStreaks.glsl, gre: Light Streaks
+- MIT | gl-transitions LightWipe.glsl, gre: Light Wipe
+- MIT | gl-transitions LightningFlash.glsl, gre: Lightning Flash
+- MIT | gl-transitions Nightfall.glsl, gre: Nightfall
+- MIT | gl-transitions Overexposure.glsl, Ben Zhang: Overexposure
+- MIT | gl-transitions ProjectorThrow.glsl, gre: Projector Throw
+- MIT | gl-transitions ReededGlass.glsl, gre: Reeded Glass
+- MIT | gl-transitions SlideProjector.glsl, gre: Slide Projector
+- MIT | gl-transitions SpeedLines.glsl, gre: Speed Lines
+- MIT | gl-transitions SpotlightWipe.glsl, gre: Spotlight Wipe
+- MIT | gl-transitions TvTurnOff.glsl, gre: TV Turn Off
+
+gl-transitions (https://github.com/gl-transitions/gl-transitions), MIT License, (c) the authors named above:
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated
+documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to
+use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the
+Software is furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
+MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE
+FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN
+CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+================================================================================
+MixEhr Luma — third-party notices (generated from GlancEhr 4f01e56f511632b6f0f6863bfe61e91d1f066b04's catalogue)
+
+Shader translation: naga 30.0.2 (MIT OR Apache-2.0, gfx-rs) at build time; not shipped.
+FreeFrame GL SDK (resolume/ffgl 5b6e078): BSD-style FreeFrame licence (third_party/ffgl/LICENSE.md).
+DXVKit 1.0.0 (Amrit Rosell, MIT; third_party/dxvkit/LICENSE): the DXV stinger reader.
+stb_image 2.30 (Sean Barrett, public domain / MIT, third_party/stb/stb_image.h): the PNG / JPG reader.
+
+- MIT | GlancEhr, after CycoreFX CC Image Wipe (vendor manual: Completion, Border Softness, Gradient Layer, Property, Blur, Inverse Gradient): Image Wipe
+- MIT | GlancEhr, after Resolume blend mode Luma Key (resolume.com/support/en/blend-modes; public description): Luma Key Blend
+- MIT | GlancEhr, after Resolume blend mode Luma Key I (resolume.com/support/en/blend-modes; public description): Luma Key Inverted Blend
+- MIT | GlancEhr, after the editors' luma / gradient wipe (MLT luma, OBS Luma Wipe, AE Gradient Wipe; public docs): Luma Map Wipe
+- MIT | GlancEhr, luma-matte wipe over a built-in brick map (after the editors' luma wipes, public docs): Luma Bricks Wipe
+- MIT | GlancEhr, luma-matte wipe over a built-in cloud map (fbm; after the editors' luma wipes, public docs): Luma Clouds Wipe
+- MIT | GlancEhr, luma-matte wipe over a built-in hexagon map (after the editors' luma wipes, public docs): Luma Hex Wipe
+- MIT | GlancEhr, luma-matte wipe over a built-in radial ring map (after the editors' luma wipes, public docs): Luma Radial Rings Wipe
+- MIT | GlancEhr, luma-matte wipe over a built-in random bar map (after the editors' luma wipes, public docs): Luma Noise Bars Wipe
+- MIT | GlancEhr, luma-matte wipe over a built-in spiral map (after the editors' luma wipes, public docs): Luma Spiral Wipe
+- MIT | GlancEhr, luma-matte wipe over a built-in tiled diamond map (after the editors' luma wipes, public docs): Luma Diamonds Wipe
+- MIT | gl-transitions LumaWipe.glsl, gre: Luma Wipe
+- MIT | gl-transitions LuminanceMelt.glsl, 0gust1 (simplex noise by Ian McEwan, Ashima Arts, MIT): Luminance Melt
+- MIT | gl-transitions OutlineFill.glsl, gre: Outline Fill
+- MIT | gl-transitions PaperLayers.glsl, gre: Paper Layers
+
+gl-transitions (https://github.com/gl-transitions/gl-transitions), MIT License, (c) the authors named above:
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated
+documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to
+use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the
+Software is furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
+MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE
+FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN
+CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+================================================================================
+MixEhr Optical — third-party notices (generated from GlancEhr 4f01e56f511632b6f0f6863bfe61e91d1f066b04's catalogue)
+
+Shader translation: naga 30.0.2 (MIT OR Apache-2.0, gfx-rs) at build time; not shipped.
+FreeFrame GL SDK (resolume/ffgl 5b6e078): BSD-style FreeFrame licence (third_party/ffgl/LICENSE.md).
+DXVKit 1.0.0 (Amrit Rosell, MIT; third_party/dxvkit/LICENSE): the DXV stinger reader.
+stb_image 2.30 (Sean Barrett, public domain / MIT, third_party/stb/stb_image.h): the PNG / JPG reader.
+
+- MIT | GlancEhr original: a 2.5D push with a depth estimate from luma and edges (bright and detailed = near), no ML model (PLAN §13.2 c): Parallax Push
+- MIT | GlancEhr original: a cut placed where the two clips line up in shape and colour (the show moves the outgoing's cut point to its best-matching moment, from each clip's analysis thumbnails), with a two-frame blend and a small punch: Match Cut
+- MIT | GlancEhr original: a glass sphere rolls in and grows until it fills the screen; inside it the incoming, magnified and refracted with a touch of colour fringing; a bright rim: Glass Lens
+- MIT | GlancEhr original: the outgoing folds up like paper, strip by strip in an accordion, faces shaded by their: Origami Fold
+- MIT | GlancEhr, after the Droste effect in log-polar form (de Smit & Lenstra, "The Mathematical Structure of Escher's Print Gallery", Notices of the AMS 2003): the incoming spirals inside the outgoing and the zoom follows the spiral in: Droste Zoom
+- MIT | GlancEhr, after the dolly zoom (the "Vertigo" effect): near parts grow while far ones shrink, with a depth estimate from luma (bright = near), no ML model: Depth Dolly
+- MIT | GlancEhr, after the infinity-mirror box: frames within frames, the incoming nested inside the outgoing, a zoom down the tunnel until the incoming fills the screen: Infinity Mirror
+- MIT | GlancEhr, after the optical-flow morph (block matching between frames, as in Horn & Schunck's and Lucas & Kanade's flow papers): each pixel finds where its patch went in the other picture and both are warped toward each other while they dissolve: Flow Morph
+
+gl-transitions (https://github.com/gl-transitions/gl-transitions), MIT License, (c) the authors named above:
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated
+documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to
+use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the
+Software is furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
+MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE
+FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN
+CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+================================================================================
+MixEhr Organic — third-party notices (generated from GlancEhr 4f01e56f511632b6f0f6863bfe61e91d1f066b04's catalogue)
+
+Shader translation: naga 30.0.2 (MIT OR Apache-2.0, gfx-rs) at build time; not shipped.
+FreeFrame GL SDK (resolume/ffgl 5b6e078): BSD-style FreeFrame licence (third_party/ffgl/LICENSE.md).
+DXVKit 1.0.0 (Amrit Rosell, MIT; third_party/dxvkit/LICENSE): the DXV stinger reader.
+stb_image 2.30 (Sean Barrett, public domain / MIT, third_party/stb/stb_image.h): the PNG / JPG reader.
+
+- MIT | GlancEhr original: a probabilistic growth automaton (each dead cell comes alive with a chance that rises with its live neighbours, Eden-style growth), on the GPU (@sim): Cellular Growth
+- MIT | GlancEhr original: a ragged tear runs across the picture, the two halves are pulled apart with sagging folds,: Cloth Tearing
+- MIT | GlancEhr original: the outgoing comes apart into grains carried off by wind and gravity along deterministic paths, each pixel finding the grain over it by fixed-point iteration (stateless particles): Sand Blowing Away
+- MIT | GlancEhr original: the picture as a mosaic of block-element characters (shades and quadrants by brightness, coloured by the cell), each cell flipping like a split-flap from the outgoing's character to the incoming's: Character Mosaic
+- MIT | GlancEhr original: the picture becomes an LED wall (round emitters on a dark board, a scan flicker), each LED switching to the incoming along a sweep with a white pop: LED Wall
+- MIT | GlancEhr, after Bridson et al., "Curl-Noise for Procedural Fluid Flow" (SIGGRAPH 2007): the outgoing burns away from a rising front into smoke carried up by buoyancy and curl noise, on the GPU (@sim): Smoke
+- MIT | GlancEhr, after Bridson, Hourihan & Nordenstam, "Curl-Noise for Procedural Fluid Flow" (SIGGRAPH 2007): dye poured from drops, advected semi-Lagrangian through a divergence-free curl-noise velocity on the GPU (@sim): Ink in Water
+- MIT | GlancEhr, after Sébastien Truchet's tiles (1704) in the quarter-circle form (C. S. Smith, 1987): arcs grow: Truchet Tiles
+- MIT | GlancEhr, after print halftoning (amplitude-modulated dots on rotated screens): the outgoing's dots shrink while the incoming's grow on a screen turned against it: Halftone Dots
+- MIT | GlancEhr, after the Gray–Scott model (Gray & Scott 1984; patterns per Pearson, "Complex Patterns in a Simple System", Science 1993): coral-like growth from seeds reveals the incoming, simulated on the GPU (@sim): Reaction-Diffusion Growth
+- MIT | GlancEhr, after the melt look in film titling: the outgoing runs down in viscous drips, bright parts first, with a warm wet front: Melting
+
+gl-transitions (https://github.com/gl-transitions/gl-transitions), MIT License, (c) the authors named above:
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated
+documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to
+use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the
+Software is furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
+MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE
+FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN
+CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+================================================================================
+MixEhr Pattern — third-party notices (generated from GlancEhr 4f01e56f511632b6f0f6863bfe61e91d1f066b04's catalogue)
+
+Shader translation: naga 30.0.2 (MIT OR Apache-2.0, gfx-rs) at build time; not shipped.
+FreeFrame GL SDK (resolume/ffgl 5b6e078): BSD-style FreeFrame licence (third_party/ffgl/LICENSE.md).
+DXVKit 1.0.0 (Amrit Rosell, MIT; third_party/dxvkit/LICENSE): the DXV stinger reader.
+stb_image 2.30 (Sean Barrett, public domain / MIT, third_party/stb/stb_image.h): the PNG / JPG reader.
+
+- MIT | GlancEhr, after CycoreFX CC Grid Wipe (vendor manual: Completion, Center, Rotation, Border, Tiles, Shape Doors / Radial / Rectangle, Reverse Transition): Grid Wipe
+- MIT | gl-transitions Ascii.glsl, gre: Ascii
+- MIT | gl-transitions BlockCover.glsl, gre: Block Cover
+- MIT | gl-transitions Chessboard.glsl, lql: Chessboard
+- MIT | gl-transitions ComicPanels.glsl, gre: Comic Panels
+- MIT | gl-transitions Cymatics.glsl, gre: Cymatics
+- MIT | gl-transitions DitherDissolve.glsl, gre: Dither Dissolve
+- MIT | gl-transitions FrostWipe.glsl, gre: Frost Wipe
+- MIT | gl-transitions GooeyWipe.glsl, gre: Gooey Wipe
+- MIT | gl-transitions Halftone.glsl, gre: Halftone
+- MIT | gl-transitions Hexagonalize.glsl, Fernando Kuteken: Hexagonalize
+- MIT | gl-transitions LedWall.glsl, gre: LED Wall
+- MIT | gl-transitions MoireWipe.glsl, gre: Moire Wipe
+- MIT | gl-transitions PolkaDotsCurtain.glsl, bobylito: Polka Dots Curtain
+- MIT | gl-transitions QuadtreeBlocks.glsl, gre: Quadtree Blocks
+- MIT | gl-transitions SplatterWipe.glsl, gre: Splatter Wipe
+- MIT | gl-transitions TilesWave.glsl, numb3r23: Tiles Wave
+- MIT | gl-transitions TruchetWipe.glsl, gre: Truchet Wipe
+- MIT | gl-transitions WindowBlinds.glsl, Fabien Benetou: Window Blinds
+- MIT | gl-transitions WindowSlices.glsl, gre: Window Slices
+- MIT | gl-transitions XorWipe.glsl, gre: Xor Wipe
+
+gl-transitions (https://github.com/gl-transitions/gl-transitions), MIT License, (c) the authors named above:
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated
+documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to
+use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the
+Software is furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
+MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE
+FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN
+CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+================================================================================
+MixEhr SeamWork — third-party notices (generated from GlancEhr 4f01e56f511632b6f0f6863bfe61e91d1f066b04's catalogue)
+
+Shader translation: naga 30.0.2 (MIT OR Apache-2.0, gfx-rs) at build time; not shipped.
+FreeFrame GL SDK (resolume/ffgl 5b6e078): BSD-style FreeFrame licence (third_party/ffgl/LICENSE.md).
+DXVKit 1.0.0 (Amrit Rosell, MIT; third_party/dxvkit/LICENSE): the DXV stinger reader.
+stb_image 2.30 (Sean Barrett, public domain / MIT, third_party/stb/stb_image.h): the PNG / JPG reader.
+
+- MIT (Amrit Rosell's own SeamWork, ported) | SeamWork Blur Through (src/Shaders.h:386-388): Blur Through
+- MIT (Amrit Rosell's own SeamWork, ported) | SeamWork CRT Off On (src/Shaders.h:690-700): CRT Off On
+- MIT (Amrit Rosell's own SeamWork, ported) | SeamWork Difference Blend (src/Shaders.h:457-467): Difference Blend
+- MIT (Amrit Rosell's own SeamWork, ported) | SeamWork Directional Tail (src/Shaders.h:370-375): Directional Tail
+- MIT (Amrit Rosell's own SeamWork, ported) | SeamWork Edge Dissolve (src/Shaders.h:365-369): Edge Dissolve
+- MIT (Amrit Rosell's own SeamWork, ported) | SeamWork Feedback Tunnel (src/Shaders.h:701-713): Feedback Tunnel
+- MIT (Amrit Rosell's own SeamWork, ported) | SeamWork Film Burn (src/Shaders.h:714-727): Film Burn
+- MIT (Amrit Rosell's own SeamWork, ported) | SeamWork Flash Strobe (src/Shaders.h:423-426): Flash Strobe
+- MIT (Amrit Rosell's own SeamWork, ported) | SeamWork Freeze Hold (src/SeamWorkPlugin.cpp:805-806; mix src/Shaders.h:392-393): Freeze Hold
+- MIT (Amrit Rosell's own SeamWork, ported) | SeamWork Fuzz Snow (src/Shaders.h:411-414): Fuzz Snow
+- MIT (Amrit Rosell's own SeamWork, ported) | SeamWork Glitch Burst (src/Shaders.h:394-402): Glitch Burst
+- MIT (Amrit Rosell's own SeamWork, ported) | SeamWork Ink Bleed (src/Shaders.h:526-536): Ink Bleed
+- MIT (Amrit Rosell's own SeamWork, ported) | SeamWork Kaleido Burst (src/Shaders.h:728-737): Kaleido Burst
+- MIT (Amrit Rosell's own SeamWork, ported) | SeamWork Liquid Morph (src/Shaders.h:482-492): Liquid Morph
+- MIT (Amrit Rosell's own SeamWork, ported) | SeamWork Luma Dissolve (src/Shaders.h:382-385): Luma Dissolve
+- MIT (Amrit Rosell's own SeamWork, ported) | SeamWork Noise Dissolve (src/Shaders.h:358-364): Noise Dissolve
+- MIT (Amrit Rosell's own SeamWork, ported) | SeamWork Pixel Explode (src/Shaders.h:608-664): Pixel Explode
+- MIT (Amrit Rosell's own SeamWork, ported) | SeamWork Pixel Sort (src/Shaders.h:427-440): Pixel Sort
+- MIT (Amrit Rosell's own SeamWork, ported) | SeamWork Pixelate Through (src/Shaders.h:493-511): Pixelate Through
+- MIT (Amrit Rosell's own SeamWork, ported) | SeamWork RGB Split (src/Shaders.h:415-418): RGB Split
+- MIT (Amrit Rosell's own SeamWork, ported) | SeamWork Rack Focus (src/Shaders.h:512-514): Rack Focus
+- MIT (Amrit Rosell's own SeamWork, ported) | SeamWork Radial Iris (src/Shaders.h:376-381): Radial Iris
+- MIT (Amrit Rosell's own SeamWork, ported) | SeamWork Rewind (src/Shaders.h:680-689; window SeamMix.cpp:626-630, 1047-1054): Rewind
+- MIT (Amrit Rosell's own SeamWork, ported) | SeamWork Rewind Scratch (src/SeamWorkPlugin.cpp:788-789; mix src/Shaders.h:392-393): Rewind Scratch
+- MIT (Amrit Rosell's own SeamWork, ported) | SeamWork Ripple Shockwave (src/Shaders.h:665-679): Ripple Shockwave
+- MIT (Amrit Rosell's own SeamWork, ported) | SeamWork Shatter (src/Shaders.h:537-607): Shatter
+- MIT (Amrit Rosell's own SeamWork, ported) | SeamWork Slit Scan (src/Shaders.h:515-525): Slit Scan
+- MIT (Amrit Rosell's own SeamWork, ported) | SeamWork Split Blend (src/Shaders.h:468-481): Split Blend
+- MIT (Amrit Rosell's own SeamWork, ported) | SeamWork Stutter (src/SeamWorkPlugin.cpp:782-787; mix src/Shaders.h:392-393): Stutter
+- MIT (Amrit Rosell's own SeamWork, ported) | SeamWork Tape Stop (src/SeamWorkPlugin.cpp:790-804; mix src/Shaders.h:392-393): Tape Stop
+- MIT (Amrit Rosell's own SeamWork, ported) | SeamWork Threshold Hit (src/Shaders.h:738-751): Threshold Hit
+- MIT (Amrit Rosell's own SeamWork, ported) | SeamWork VHS Roll (src/Shaders.h:403-410): VHS Roll
+- MIT (Amrit Rosell's own SeamWork, ported) | SeamWork Zoom Punch (src/Shaders.h:441-444): Zoom Punch
+
+================================================================================
+MixEhr Slide — third-party notices (generated from GlancEhr 4f01e56f511632b6f0f6863bfe61e91d1f066b04's catalogue)
+
+Shader translation: naga 30.0.2 (MIT OR Apache-2.0, gfx-rs) at build time; not shipped.
+FreeFrame GL SDK (resolume/ffgl 5b6e078): BSD-style FreeFrame licence (third_party/ffgl/LICENSE.md).
+DXVKit 1.0.0 (Amrit Rosell, MIT; third_party/dxvkit/LICENSE): the DXV stinger reader.
+stb_image 2.30 (Sean Barrett, public domain / MIT, third_party/stb/stb_image.h): the PNG / JPG reader.
+
+- MIT | GlancEhr, after Resolume's Shift RGB layer transition (resolume.com/support/en/layers; public description: R, G and B come in from the sides and top): Shift RGB
+- MIT | gl-transitions BlockSlide.glsl, gre: Block Slide
+- MIT | gl-transitions Bounce.glsl, Adrian Purser: Bounce
+- MIT | gl-transitions CardDeal.glsl, gre: Card Deal
+- MIT | gl-transitions CardSwipe.glsl, gre: Card Swipe
+- MIT | gl-transitions Clothesline.glsl, gre: Clothesline
+- MIT | gl-transitions Comb.glsl, gre: Comb
+- MIT | gl-transitions Directional.glsl, Gaëtan Renaudeau: Directional
+- MIT | gl-transitions DirectionalScaled.glsl, Thibaut Foussard: Directional Scaled
+- MIT | gl-transitions EchoSlide.glsl, gre: Echo Slide
+- MIT | gl-transitions FilmStrip.glsl, gre: Film Strip
+- MIT | gl-transitions Fold.glsl, nwoeanhinnogaehr: Fold
+- MIT | gl-transitions LayoutGrid.glsl, gre: Layout Grid
+- MIT | gl-transitions LeftRight.glsl, zhmy: Left Right
+- MIT | gl-transitions LensPush.glsl, gre: Lens Push
+- MIT | gl-transitions ParallaxPush.glsl, gre: Parallax Push
+- MIT | gl-transitions SlashSplit.glsl, gre: Slash Split
+- MIT | gl-transitions SlideAwayRight.glsl, lizhongjian: Slide Away
+- MIT | gl-transitions Slides.glsl, Mark Craig: Slides
+- MIT | gl-transitions SplitSlideInHorizontal.glsl + SplitSlideInVertical.glsl, OllyOllyOlly: Split Slide In
+- MIT | gl-transitions SplitSlideInOutHorizontal.glsl + SplitSlideInOutVertical.glsl, OllyOllyOlly: Split Slide In Out
+- MIT | gl-transitions SplitSlideOutHorizontal.glsl + SplitSlideOutVertical.glsl, OllyOllyOlly: Split Slide Out
+- MIT | gl-transitions StopMotion.glsl, gre: Stop Motion
+- MIT | gl-transitions StretchSlide.glsl, gre: Stretch Slide
+- MIT | gl-transitions TopBottom.glsl, zhmy: Top Bottom
+- MIT | gl-transitions Unstack.glsl, gre: Unstack
+- MIT | gl-transitions WaterfallWipe.glsl, gre: Waterfall Wipe
+
+gl-transitions (https://github.com/gl-transitions/gl-transitions), MIT License, (c) the authors named above:
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated
+documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to
+use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the
+Software is furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
+MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE
+FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN
+CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+================================================================================
+MixEhr Stinger — third-party notices (generated from GlancEhr 4f01e56f511632b6f0f6863bfe61e91d1f066b04's catalogue)
+
+Shader translation: naga 30.0.2 (MIT OR Apache-2.0, gfx-rs) at build time; not shipped.
+FreeFrame GL SDK (resolume/ffgl 5b6e078): BSD-style FreeFrame licence (third_party/ffgl/LICENSE.md).
+DXVKit 1.0.0 (Amrit Rosell, MIT; third_party/dxvkit/LICENSE): the DXV stinger reader.
+stb_image 2.30 (Sean Barrett, public domain / MIT, third_party/stb/stb_image.h): the PNG / JPG reader.
+
+- MIT | GlancEhr original (a light burst from the client's own logo; a glow from stacked, scaled copies): Logo Glow Burst
+- MIT | GlancEhr original (a spinning logo stinger over a dimmed picture, built from the client's own logo): Logo Spin Reveal
+- MIT | GlancEhr original (a wipe whose edge carries the client's own logo across the screen): Logo Edge Wipe
+- MIT | GlancEhr original (the broadcast "fly through the logo" stinger, built from the client's own logo): Logo Zoom Through
+- MIT | GlancEhr, after OBS track-matte stinger transitions (obsproject.com/kb/track-matte-stinger-transitions; public docs): Stinger Matte
+- MIT | gl-transitions FilmLeader.glsl, gre: Film Leader
+
+gl-transitions (https://github.com/gl-transitions/gl-transitions), MIT License, (c) the authors named above:
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated
+documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to
+use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the
+Software is furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
+MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE
+FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN
+CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+================================================================================
+MixEhr Warp — third-party notices (generated from GlancEhr 4f01e56f511632b6f0f6863bfe61e91d1f066b04's catalogue)
+
+Shader translation: naga 30.0.2 (MIT OR Apache-2.0, gfx-rs) at build time; not shipped.
+FreeFrame GL SDK (resolume/ffgl 5b6e078): BSD-style FreeFrame licence (third_party/ffgl/LICENSE.md).
+DXVKit 1.0.0 (Amrit Rosell, MIT; third_party/dxvkit/LICENSE): the DXV stinger reader.
+stb_image 2.30 (Sean Barrett, public domain / MIT, third_party/stb/stb_image.h): the PNG / JPG reader.
+
+- MIT | GlancEhr, after CycoreFX CC Glass Wipe (vendor manual: Completion, Gradient Layer, Softness, Displacement Amount): Glass Wipe
+- MIT | GlancEhr, after CycoreFX CC Radial ScaleWipe (vendor manual: Completion, Center, Reverse Transition; a radial wipe whose edge folds): Radial Scale Wipe
+- MIT | GlancEhr, after CycoreFX CC WarpoMatic (vendor manual: Completion, Reactor, Smoothness, Warp Amount, Warp Direction Joint / Opposing / Twisting, Blend Span): WarpoMatic
+- MIT | gl-transitions BeadUp.glsl, gre: Bead Up
+- MIT | gl-transitions BillowWipe.glsl, gre: Billow Wipe
+- MIT | gl-transitions Bottleneck.glsl, gre: Bottleneck
+- MIT | gl-transitions ButterflyWaveScrawler.glsl, mandubian: Butterfly Wave Scrawler
+- MIT | gl-transitions Cleave.glsl, gre: Cleave
+- MIT | gl-transitions ColorCoords.glsl, haiyoucuv: Color Coords
+- MIT | gl-transitions CrazyParametricFun.glsl, mandubian: Crazy Parametric Fun
+- MIT | gl-transitions CrossWarp.glsl, Eke Péter: Cross Warp
+- MIT | gl-transitions DamBreak.glsl, gre: Dam Break
+- MIT | gl-transitions DisplacementMap.glsl, Travis Fischer: Displacement Map
+- MIT | gl-transitions Dreamy.glsl, mikolalysenko: Dreamy
+- MIT | gl-transitions FacetedGlass.glsl, gre: Faceted Glass
+- MIT | gl-transitions Fisheye.glsl, gre: Fisheye
+- MIT | gl-transitions FlowDissolve.glsl, gre: Flow Dissolve
+- MIT | gl-transitions FlyEye.glsl, gre: Fly Eye
+- MIT | gl-transitions Funnel.glsl, gre: Funnel
+- MIT | gl-transitions GlassRelief.glsl, gre: Glass Relief
+- MIT | gl-transitions GravityLens.glsl, gre: Gravity Lens
+- MIT | gl-transitions HeatHaze.glsl, gre: Heat Haze
+- MIT | gl-transitions HoneyDrip.glsl, gre: Honey Drip
+- MIT | gl-transitions Kaleidoscope.glsl, nwoeanhinnogaehr: Kaleidoscope
+- MIT | gl-transitions Knead.glsl, gre: Knead
+- MIT | gl-transitions MarblingDissolve.glsl, gre: Marbling Dissolve
+- MIT | gl-transitions Morph.glsl, paniq: Morph
+- MIT | gl-transitions PowerKaleido.glsl, Boundless: Power Kaleido
+- MIT | gl-transitions Refraction.glsl, gre: Refraction
+- MIT | gl-transitions Revolve.glsl, bread: Revolve
+- MIT | gl-transitions Ripple.glsl, gre: Ripple
+- MIT | gl-transitions SoapDrop.glsl, gre: Soap Drop
+- MIT | gl-transitions SourceSink.glsl, gre: Source Sink
+- MIT | gl-transitions Squeeze.glsl, gre: Squeeze
+- MIT | gl-transitions StickySplit.glsl, gre: Sticky Split
+- MIT | gl-transitions Swim.glsl, gre: Swim
+- MIT | gl-transitions Swirl.glsl, Sergey Kosarevsky: Swirl
+- MIT | gl-transitions ViscousFingers.glsl, gre: Viscous Fingers
+- MIT | gl-transitions WaterDrop.glsl, Paweł Płóciennik: Water Drop
+
+gl-transitions (https://github.com/gl-transitions/gl-transitions), MIT License, (c) the authors named above:
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated
+documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to
+use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the
+Software is furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
+MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE
+FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN
+CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+================================================================================
+MixEhr Wipe — third-party notices (generated from GlancEhr 4f01e56f511632b6f0f6863bfe61e91d1f066b04's catalogue)
+
+Shader translation: naga 30.0.2 (MIT OR Apache-2.0, gfx-rs) at build time; not shipped.
+FreeFrame GL SDK (resolume/ffgl 5b6e078): BSD-style FreeFrame licence (third_party/ffgl/LICENSE.md).
+DXVKit 1.0.0 (Amrit Rosell, MIT; third_party/dxvkit/LICENSE): the DXV stinger reader.
+stb_image 2.30 (Sean Barrett, public domain / MIT, third_party/stb/stb_image.h): the PNG / JPG reader.
+
+- MIT | GlancEhr, after After Effects Iris Wipe (public docs: Iris Center, Iris Points, Outer/Inner Radius, Rotation,: Iris Wipe
+- MIT | GlancEhr, after After Effects' Linear Wipe (public docs: angle, feather): Linear Wipe
+- MIT | GlancEhr, after CycoreFX CC Jaws (vendor manual: Completion, Center, Direction, Height, Width, Shape Spikes / RoboJaw / Block / Waves): Jaws
+- MIT | GlancEhr, after CycoreFX CC Line Sweep (vendor manual: Completion, Direction, Thickness, Slant, Flip Direction): Line Sweep
+- MIT | GlancEhr, after the DaVinci Resolve Eye Iris transition (public description: an almond-shaped iris): Eye Iris
+- MIT | gl-transitions ArrowWipe.glsl, gre: Arrow Wipe
+- MIT | gl-transitions BandWipe.glsl, gre: Band Wipe
+- MIT | gl-transitions BowTie.glsl, KMojek: Bow Tie
+- MIT | gl-transitions BowTieHorizontal.glsl, huynx: Bow Tie Horizontal
+- MIT | gl-transitions BrushWipe.glsl, gre: Brush Wipe
+- MIT | gl-transitions ClockWipe.glsl, Fernando Kuteken: Clock Wipe
+- MIT | gl-transitions ColorPanelWipe.glsl, gre: Colour Panel Wipe
+- MIT | gl-transitions CurvedWipe.glsl, gre: Curved Wipe
+- MIT | gl-transitions DirectionalWarp.glsl, pschroen: Directional Warp
+- MIT | gl-transitions DoomMelt.glsl, Zeh Fernando: Doom Melt
+- MIT | gl-transitions EqualizerWipe.glsl, gre: Equalizer Wipe
+- MIT | gl-transitions FlameWipe.glsl, gre: Flame Wipe
+- MIT | gl-transitions HorizontalClose.glsl, martiniti: Horizontal Close
+- MIT | gl-transitions HorizontalOpen.glsl, martiniti: Horizontal Open
+- MIT | gl-transitions InsetWipe.glsl, gre: Inset Wipe
+- MIT | gl-transitions InterlaceWipe.glsl, gre: Interlace Wipe
+- MIT | gl-transitions KeyholeWipe.glsl, gre: Keyhole Wipe
+- MIT | gl-transitions LeafWipe.glsl, @Flexi23: Leaf Wipe
+- MIT | gl-transitions LiquidFill.glsl, gre: Liquid Fill
+- MIT | gl-transitions PlusWipe.glsl, gre: Plus Wipe
+- MIT | gl-transitions PosterPaste.glsl, gre: Poster Paste
+- MIT | gl-transitions RadialWipe.glsl, Xaychru: Radial Wipe
+- MIT | gl-transitions Reflow.glsl, gre: Reflow
+- MIT | gl-transitions RingsWipe.glsl, gre: Rings Wipe
+- MIT | gl-transitions SawtoothWipe.glsl, gre: Sawtooth Wipe
+- MIT | gl-transitions ScreenPrintWipe.glsl, gre: Screen Print Wipe
+- MIT | gl-transitions ShoreWash.glsl, gre: Shore Wash
+- MIT | gl-transitions ShutterWipe.glsl, gre: Shutter Wipe
+- MIT | gl-transitions SnakeBlockWipe.glsl, gre: Snake Block Wipe
+- MIT | gl-transitions SpiralBlockWipe.glsl, gre: Spiral Block Wipe
+- MIT | gl-transitions SpiralWipe.glsl, gre: Spiral Wipe
+- MIT | gl-transitions SquaresWipe.glsl, gre: Squares Wipe
+- MIT | gl-transitions UndulatingBurnOut.glsl, pthrasher: Undulating Burn Out
+- MIT | gl-transitions VerticalOpen.glsl and VerticalClose.glsl, martiniti: Vertical Open
+- MIT | gl-transitions WaveWipe.glsl, gre: Wave Wipe
+- MIT | gl-transitions WedgeWipe.glsl, gre: Wedge Wipe
+- MIT | gl-transitions Wind.glsl, gre: Wind
+
+gl-transitions (https://github.com/gl-transitions/gl-transitions), MIT License, (c) the authors named above:
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated
+documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to
+use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the
+Software is furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
+MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE
+FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN
+CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+================================================================================
+MixEhr Zoom — third-party notices (generated from GlancEhr 4f01e56f511632b6f0f6863bfe61e91d1f066b04's catalogue)
+
+Shader translation: naga 30.0.2 (MIT OR Apache-2.0, gfx-rs) at build time; not shipped.
+FreeFrame GL SDK (resolume/ffgl 5b6e078): BSD-style FreeFrame licence (third_party/ffgl/LICENSE.md).
+DXVKit 1.0.0 (Amrit Rosell, MIT; third_party/dxvkit/LICENSE): the DXV stinger reader.
+stb_image 2.30 (Sean Barrett, public domain / MIT, third_party/stb/stb_image.h): the PNG / JPG reader.
+
+- MIT | gl-transitions DreamyZoom.glsl, Zeh Fernando: Dreamy Zoom
+- MIT | gl-transitions Mosaic.glsl, Xaychru: Mosaic
+- MIT | gl-transitions PopIn.glsl, gre: Pop In
+- MIT | gl-transitions RotateScaleFade.glsl, Fernando Kuteken: Rotate Scale Fade
+- MIT | gl-transitions RotateScaleVanish.glsl, Mark Craig: Rotate Scale Vanish
+- MIT | gl-transitions SimpleZoom.glsl, 0gust1: Simple Zoom
+- MIT | gl-transitions SimpleZoomOut.glsl, Tianshuo: Simple Zoom Out
+- MIT | gl-transitions Tunnel.glsl, gre: Tunnel
+- MIT | gl-transitions WarpSpeed.glsl, gre: Warp Speed
+- MIT | gl-transitions ZoomInCircles.glsl, dycm8009: Zoom In Circles
+- MIT | gl-transitions ZoomInOut.glsl, OllyOllyOlly: Zoom In Out
+- MIT | gl-transitions ZoomWipeLeft.glsl and ZoomWipeRight.glsl, Handk: Zoom Wipe
+
+gl-transitions (https://github.com/gl-transitions/gl-transitions), MIT License, (c) the authors named above:
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated
+documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to
+use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the
+Software is furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
+MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE
+FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN
+CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
